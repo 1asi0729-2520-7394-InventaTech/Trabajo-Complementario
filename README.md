@@ -44,15 +44,25 @@ Solo abre tu navegador y empieza a explorar el mundo de la programación sin des
 
 
 **¡Gracias por completar el curso!**
+
 ---
+
 ## 👥 Elaboración
+
 Universidad Peruana de Ciencias Aplicadas
+
 Carrera de Ingeniería de Software
+
 Período 202520
+
 1ASI0729 Desarrollo de Aplicaciones Open Source
+
 NRC 7394
+
 **Nombre del equipo**: InventaTech
+
 **Líder del equipo**: Carhuancote Dominguez, Gonzalo Alonso
+
 **Integrantes del equipo**: 
 | **Código**   | **Apellidos y Nombres**              |
 | :-----------: | :----------------------------------- |
@@ -61,4 +71,5 @@ NRC 7394
 | U202215721    | Duran Diaz, Antonio Rodrigo          |
 | U20201f846    | Oshiro Yamashita, Daiki Oscar        |
 | U202117303    | Teves Samaniego, Joan Fernando       |
+
 **Fecha de entrega**: 14/11/2025
