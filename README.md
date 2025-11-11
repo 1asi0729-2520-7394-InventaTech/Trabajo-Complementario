@@ -25,22 +25,24 @@ Solo abre tu navegador y empieza a explorar el mundo de la programación sin des
 - **Parte práctica**: https://onecompiler.com/java
 - **Material utilizado en el video**: https://docs.google.com/presentation/d/1fNgaHYLYnKwFXKE9P89NaZ_ZDd8Gv1vY--x7AALFIV8/edit?usp=sharing 
   
-### Lección 2: Variables y tipos de datos (9 minutos)
+### Lección 2: Variables y tipos de datos (6 minutos)
 
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
-- **Enlace**: https://youtu.be/4MxSNcm9fek
+- **Enlace del video**: https://youtu.be/QHCtJc1tgoM
 - **Conclusiones clave**: Los tipos de datos nos ayudan a decirle a Java qué tipo de información guardará cada una. 
 - **Parte práctica**: https://onecompiler.com/java/443vfrhbg
 - **Material utilizado en el video**: https://docs.google.com/presentation/d/18uuzVxJk1-0f4LT7dxAnoicXWKN-bCqcanConGhyz8g/edit?usp=sharing
+- **Enlace del video parte práctica**: https://youtu.be/A16EkjdnU1g
 
-### Lección 3: Operadores y expresiones (13 minutos)
+### Lección 3: Operadores y expresiones (9 minutos)
 
 - **Descripción**: Aprende qué son los operadores y las expresiones en Java.
-- **Enlace**: https://youtu.be/RIkAchtjRzA
+- **Enlace**: https://youtu.be/Nt5oFlcv9XA
 - **Conclusiones clave**: Los operadores permiten que Java procese datos y tome decisiones. Una expresión es cualquier combinación de datos y operadores que Java puede calcular o evaluar para obtener un valor.
 - **Parte práctica ejercicio 1**: https://onecompiler.com/java/443vf4hxk
 - **Parte práctica ejercicio 2**: https://onecompiler.com/java/443vfpyrq
 - **Material utilizado en el video**: https://docs.google.com/presentation/d/15RoYgEZpEX2nUr0gC4elfx0XTEFKHUuFPsVQHdHZFTg/edit?usp=sharing
+- **Enlace del video parte práctica**: https://youtu.be/AIFoP9zYXcs
 
 
 **¡Gracias por completar el curso!**
