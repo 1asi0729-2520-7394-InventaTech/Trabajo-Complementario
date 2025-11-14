@@ -51,12 +51,12 @@ Solo abre tu navegador y empieza a explorar el mundo de la programación sin des
 - **Conclusiones clave**: Las estructuras de control permiten que los programas tomen decisiones y repitan acciones. IF-ELSE evalúa condiciones (verdadero/falso) para ejecutar diferentes bloques de código. Los operadores && (AND) y || (OR) permiten combinar múltiples condiciones. El bucle FOR se usa cuando conocemos el número exacto de repeticiones. El bucle WHILE repite código mientras una condición sea verdadera. BREAK permite salir de un bucle antes de que termine naturalmente.
 - **Práctica**: [Clic para programar](https://onlinegdb.com/y8y3zwFsVP)
 
-### Lección 5: Métodos y parámetros (-- minutos) Rodrigo
+### Lección 5: Métodos y parámetros (19 minutos)
 
 - **Descripción**: Aprende a crear y usar métodos en Java para escribir código organizado, reutilizable y profesional. Los métodos son bloques de código con nombre que puedes llamar las veces que necesites. En esta lección cubrimos desde métodos simples hasta métodos con parámetros y valores de retorno.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://youtu.be/aqEZTF0YNzg)
 - **Conclusiones clave**: Los métodos son bloques de código reutilizables que organizan el programa en partes más pequeñas y manejables. Un método sin parámetros (void) solo ejecuta acciones. Los parámetros permiten que los métodos trabajen con diferentes datos cada vez que se llaman. Los métodos con return devuelven un valor que podemos usar posteriormente. La estructura es: public static [tipo] nombreMetodo(parámetros) { código }. Los métodos mejoran la organización, reutilización y mantenibilidad del código.
-- **Práctica**: [Clic para programar](---)
+- **Práctica**: [Clic para programar](https://onlinegdb.com/zxF8ny3wd)
 
 
 **¡Gracias por completar el curso!**
