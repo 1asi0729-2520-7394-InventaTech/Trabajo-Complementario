@@ -58,7 +58,25 @@ Solo abre tu navegador y empieza a explorar el mundo de la programación sin des
 - **Conclusiones clave**: Los métodos son bloques de código reutilizables que organizan el programa en partes más pequeñas y manejables. Un método sin parámetros (void) solo ejecuta acciones. Los parámetros permiten que los métodos trabajen con diferentes datos cada vez que se llaman. Los métodos con return devuelven un valor que podemos usar posteriormente. La estructura es: public static [tipo] nombreMetodo(parámetros) { código }. Los métodos mejoran la organización, reutilización y mantenibilidad del código.
 - **Práctica**: [Clic para programar](https://onlinegdb.com/zxF8ny3wd)
 
+### Lección 6: ¡Haciendo Programas Interactivos con Scanner! (10 minutos)
 
+* **Descripción**: ¡Vamos a hacer que nuestros programas hablen con el usuario! En esta lección de "live coding" (programación en vivo) aprenderás a usar la clase `Scanner`, una herramienta fundamental en Java para recibir datos que el usuario escribe en la consola.
+* **Enlace**: [Ver la lección](https://youtu.be/4ktoBsWJD98)
+* **Conclusiones clave**: Usa `import java.util.Scanner;`. Crea el `Scanner` con `new Scanner(System.in)`. Usa `.nextLine()` para leer texto y `.nextInt()` para leer números. ¡Cuidado con el "truco" de limpiar el buffer después de `nextInt()`!
+* **Práctica (Código de la lección)**: [https://onlinegdb.com/Ni7kLzlkg](https://onlinegdb.com/Ni7kLzlkg) (Este es un ejemplo, crea tu propio enlace guardando tu código en GDB y compartiéndolo).
+
+
+
+
+
+### Lección 11: Errores Comunes y Próximos Pasos (7 minutos)
+
+- **Descripción**: ¡Felicitaciones por llegar al final! En esta última lección, revisaremos los errores más comunes que cometen los principiantes para que puedas evitarlos. [cite_start]También hablaremos de las mejores prácticas y te daremos una hoja de ruta sobre qué aprender ahora para convertirte en un experto en Java[cite: 124].
+- **Enlace**: [Ver la lección](https://youtu.be/2JHdokkHTT4)
+- **Conclusiones clave**: Depurar es normal; la práctica constante es clave. El siguiente gran paso en Java es la Programación Orientada a Objetos (POO). [cite_start]Aprende a usar la documentación oficial.
+- **Práctica**: [Revisa este código con errores comunes y trata de corregirlos](https://onecompiler.com/java/443wz98qf)
+- **Material utilizado en el video**: [https://gamma.app/docs/Leccion-6-Tu-Aventura-en-Java-Continua-rlqdlwz71d2xr6s]
+- **Compartir tu trabajo**: [¡Muéstranos lo que aprendiste!](https://docs.google.com/forms/d/e/1FAIpQLScCThxIJPY_7Jh7J9gvOqYtwl6HSqOGc9bLEJDergFuG4Egaw/viewform?usp=header)
 **¡Gracias por completar el curso!**
 
 ---
