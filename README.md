@@ -107,6 +107,7 @@ Solo abre tu navegador y empieza a explorar el mundo de la programación sin des
 ## Recursos adicionales 
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/1asi0729-2520-7394-InventaTech/Trabajo-Complementario)
 - **Todas las actividades prácticas**: 
+
 | Número de lección | Actividad | Empezar a programar | 
 | :-----------------------: | :----------------------- | :----------------------- |
 | 1 | ¿Qué es Java y la Programación? | [OneCompiler](https://onecompiler.com/java) | 
@@ -118,8 +119,8 @@ Solo abre tu navegador y empieza a explorar el mundo de la programación sin des
 | 6 | ¡Haciendo Programas Interactivos con Scanner! | [OnlineGDB](https://onlinegdb.com/Ni7kLzlkg) |
 | 7 | Introducción a la Programación Orientada a Objetos | [OnlineGDB](https://www.onlinegdb.com/imOySccUVa) |
 | 8 | Principios Básicos de POO | [OnlineGDB](https://www.onlinegdb.com/GtNHqfP47) |
-| 9 | structuras de Datos Simples en Java | [OnlineGDB](https://onlinegdb.com/6XdaTEOVs) |
-| 10 | onstruyendo una Aplicación en Java con POO | [OnlineGDB](https://onlinegdb.com/tiANM4GApz) |
+| 9 | Estructuras de Datos Simples en Java | [OnlineGDB](https://onlinegdb.com/6XdaTEOVs) |
+| 10 | Construyendo una Aplicación en Java con POO | [OnlineGDB](https://onlinegdb.com/tiANM4GApz) |
 | 11 | Errores Comunes y Próximos Pasos | [OnlineGDB](https://www.onlinegdb.com/oCZN1eMdJ) |
 
 - Compartir: #JavaBeginners
