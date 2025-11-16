@@ -65,7 +65,19 @@ Solo abre tu navegador y empieza a explorar el mundo de la programación sin des
 * **Conclusiones clave**: Usa `import java.util.Scanner;`. Crea el `Scanner` con `new Scanner(System.in)`. Usa `.nextLine()` para leer texto y `.nextInt()` para leer números. ¡Cuidado con el "truco" de limpiar el buffer después de `nextInt()`!
 * **Práctica (Código de la lección)**: [https://onlinegdb.com/Ni7kLzlkg](https://onlinegdb.com/Ni7kLzlkg) (Este es un ejemplo, crea tu propio enlace guardando tu código en GDB y compartiéndolo).
 
+### Lección 7: Introducción a la Programación Orientada a Objetos (POO): Clases, Objetos, Constructores y Métodos Simples
 
+* **Descripción**: En esta lección aprenderás los fundamentos de la Programación Orientada a Objetos en Java: clases, objetos, atributos, constructores y métodos.
+* **Enlace**: [Ver la lección](https://youtu.be/JdimR2Z4DCg)
+* **Conclusiones clave**: La POO se basa en crear clases como plantillas que definen atributos y métodos, para luego generar objetos reales a partir de ellas. Los constructores permiten inicializar esos objetos y los métodos les dan comportamiento. Estos elementos forman la base para organizar y estructurar mejor los programas.
+* **Práctica (Código de la lección)**: [https://www.onlinegdb.com/imOySccUVa](https://www.onlinegdb.com/imOySccUVa) (Este es un ejemplo, crea tu propio enlace guardando tu código en GDB y compartiéndolo).
+
+### Lección 8: ¡Haciendo Programas Interactivos con Scanner! (10 minutos)
+
+* **Descripción**: En esta lección profundizarás en uno de los principios más importantes de la programación orientada a objetos: la encapsulación. Este concepto consiste en proteger los datos internos de una clase mediante el uso de atributos privados.
+* **Enlace**: [Ver la lección](https://youtu.be/Trb1E4WdT0Y)
+* **Conclusiones clave**: La encapsulación protege los datos internos de un objeto usando atributos privados y acceso controlado mediante getters y setters. Esto asegura que los valores se modifiquen de forma segura y coherente. Instanciar objetos correctamente permite trabajar con ellos manteniendo integridad y claridad en el código.
+* **Práctica (Código de la lección)**: [https://www.onlinegdb.com/GtNHqfP47](https://www.onlinegdb.com/GtNHqfP47) (Este es un ejemplo, crea tu propio enlace guardando tu código en GDB y compartiéndolo).
 
 ### Lección 9: Estructuras de Datos Simples en Java (Arrays, Strings y Objetos) – 6 minutos
 
