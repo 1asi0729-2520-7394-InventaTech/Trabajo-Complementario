@@ -72,7 +72,7 @@ Solo abre tu navegador y empieza a explorar el mundo de la programación sin des
 * **Conclusiones clave**: La POO se basa en crear clases como plantillas que definen atributos y métodos, para luego generar objetos reales a partir de ellas. Los constructores permiten inicializar esos objetos y los métodos les dan comportamiento. Estos elementos forman la base para organizar y estructurar mejor los programas.
 * **Práctica (Código de la lección)**: [https://www.onlinegdb.com/imOySccUVa](https://www.onlinegdb.com/imOySccUVa) (Este es un ejemplo, crea tu propio enlace guardando tu código en GDB y compartiéndolo).
 
-### Lección 8: ¡Haciendo Programas Interactivos con Scanner! (10 minutos)
+### Lección 8: Principios Básicos de POO – Encapsulación con Getters y Setters, e Instanciación Simple
 
 * **Descripción**: En esta lección profundizarás en uno de los principios más importantes de la programación orientada a objetos: la encapsulación. Este concepto consiste en proteger los datos internos de una clase mediante el uso de atributos privados.
 * **Enlace**: [Ver la lección](https://youtu.be/Trb1E4WdT0Y)
