@@ -100,7 +100,7 @@ Solo abre tu navegador y empieza a explorar el mundo de la programación sin des
 - **Descripción**: ¡Felicitaciones por llegar al final! En esta última lección, revisaremos los errores más comunes que cometen los principiantes para que puedas evitarlos. [cite_start]También hablaremos de las mejores prácticas y te daremos una hoja de ruta sobre qué aprender ahora para convertirte en un experto en Java[cite: 124].
 - **Enlace**: [Ver la lección](https://youtu.be/2JHdokkHTT4)
 - **Conclusiones clave**: Depurar es normal; la práctica constante es clave. El siguiente gran paso en Java es la Programación Orientada a Objetos (POO). [cite_start]Aprende a usar la documentación oficial.
-- **Práctica**: [Revisa este código con errores comunes y trata de corregirlos](https://onecompiler.com/java/443wz98qf)
+- **Práctica**: [Revisa este código con errores comunes y trata de corregirlos](https://onlinegdb.com/oCZN1eMdJ)
 - **Material utilizado en el video**: [https://gamma.app/docs/Leccion-6-Tu-Aventura-en-Java-Continua-rlqdlwz71d2xr6s]
 - **Compartir tu trabajo**: [¡Muéstranos lo que aprendiste!](https://docs.google.com/forms/d/e/1FAIpQLScCThxIJPY_7Jh7J9gvOqYtwl6HSqOGc9bLEJDergFuG4Egaw/viewform?usp=header)
 **¡Gracias por completar el curso!**
