@@ -67,6 +67,21 @@ Solo abre tu navegador y empieza a explorar el mundo de la programación sin des
 
 
 
+### Lección 9: Estructuras de Datos Simples en Java (Arrays, Strings y Objetos) – 12 minutos
+
+* **Descripción**: En esta lección aprenderás a trabajar con tres estructuras fundamentales en Java: los **arrays**, las **cadenas de texto (Strings)** y los **objetos**. Veremos cómo calcular promedios usando arreglos, cómo analizar textos con métodos de String, y cómo integrar objetos dentro de un array para representar entidades completas. Estos fundamentos son esenciales para escribir programas más organizados y eficientes.
+* **Enlace**: [Ver la lección](https://youtu.be/U80EaqtpcqI)
+* **Conclusiones clave**: Los arrays permiten almacenar varios valores del mismo tipo. Las cadenas pueden dividirse y manipularse con métodos como `.split()` o `.length`. Es posible almacenar objetos dentro de arrays para modelar información más compleja. Dominar estas estructuras es importante para avanzar hacia colecciones, archivos y programación orientada a objetos.
+* **Práctica (Código de la lección)**: https://onlinegdb.com/6XdaTEOVs
+
+---
+
+### Lección 10: Construyendo una Aplicación en Java con POO (Registro de Estudiantes) – 14 minutos
+
+* **Descripción**: En esta lección desarrollarás una pequeña aplicación usando **Programación Orientada a Objetos (POO)**. Crearemos un sistema de registro de estudiantes utilizando clases, objetos, métodos y listas dinámicas (`ArrayList`). Verás cómo modelar entidades reales, instanciar objetos, organizarlos en una lista y crear funciones como listar y buscar estudiantes dentro del programa.
+* **Enlace**: [Ver la lección](https://youtu.be/jMyQpRCLA-A)
+* **Conclusiones clave**: Las clases permiten definir atributos y comportamientos. Los objetos representan elementos reales dentro del programa. `ArrayList` permite manejar listas sin tamaño fijo. Métodos como `mostrar()` ayudan a organizar mejor el código. Gracias a la POO, el programa se vuelve más escalable, modular y fácil de mantener.
+* **Práctica (Código de la lección)**: https://onlinegdb.com/tiANM4GApz
 
 
 ### Lección 11: Errores Comunes y Próximos Pasos (7 minutos)
