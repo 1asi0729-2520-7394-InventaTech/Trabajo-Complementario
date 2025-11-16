@@ -74,7 +74,6 @@ Solo abre tu navegador y empieza a explorar el mundo de la programación sin des
 * **Conclusiones clave**: Los arrays permiten almacenar varios valores del mismo tipo. Las cadenas pueden dividirse y manipularse con métodos como `.split()` o `.length`. Es posible almacenar objetos dentro de arrays para modelar información más compleja. Dominar estas estructuras es importante para avanzar hacia colecciones, archivos y programación orientada a objetos.
 * **Práctica (Código de la lección)**: https://onlinegdb.com/6XdaTEOVs
 
----
 
 ### Lección 10: Construyendo una Aplicación en Java con POO (Registro de Estudiantes) – 14 minutos
 
