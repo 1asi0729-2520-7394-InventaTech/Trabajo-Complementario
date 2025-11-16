@@ -123,6 +123,7 @@ Solo abre tu navegador y empieza a explorar el mundo de la programación sin des
 | 10 | Construyendo una Aplicación en Java con POO | [OnlineGDB](https://onlinegdb.com/tiANM4GApz) |
 | 11 | Errores Comunes y Próximos Pasos | [OnlineGDB](https://www.onlinegdb.com/oCZN1eMdJ) |
 
+- Cuestionario: [Prueba de conocimientos](https://forms.gle/1VcWijVjDZbecUSS9)
 - Compartir: #JavaBeginners
   
 **¡Gracias por completar el curso!**
