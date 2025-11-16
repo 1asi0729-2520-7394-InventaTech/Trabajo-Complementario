@@ -67,7 +67,7 @@ Solo abre tu navegador y empieza a explorar el mundo de la programación sin des
 
 
 
-### Lección 9: Estructuras de Datos Simples en Java (Arrays, Strings y Objetos) – 12 minutos
+### Lección 9: Estructuras de Datos Simples en Java (Arrays, Strings y Objetos) – 6 minutos
 
 * **Descripción**: En esta lección aprenderás a trabajar con tres estructuras fundamentales en Java: los **arrays**, las **cadenas de texto (Strings)** y los **objetos**. Veremos cómo calcular promedios usando arreglos, cómo analizar textos con métodos de String, y cómo integrar objetos dentro de un array para representar entidades completas. Estos fundamentos son esenciales para escribir programas más organizados y eficientes.
 * **Enlace**: [Ver la lección](https://youtu.be/U80EaqtpcqI)
@@ -75,7 +75,7 @@ Solo abre tu navegador y empieza a explorar el mundo de la programación sin des
 * **Práctica (Código de la lección)**: https://onlinegdb.com/6XdaTEOVs
 
 
-### Lección 10: Construyendo una Aplicación en Java con POO (Registro de Estudiantes) – 14 minutos
+### Lección 10: Construyendo una Aplicación en Java con POO (Registro de Estudiantes) – 5 minutos
 
 * **Descripción**: En esta lección desarrollarás una pequeña aplicación usando **Programación Orientada a Objetos (POO)**. Crearemos un sistema de registro de estudiantes utilizando clases, objetos, métodos y listas dinámicas (`ArrayList`). Verás cómo modelar entidades reales, instanciar objetos, organizarlos en una lista y crear funciones como listar y buscar estudiantes dentro del programa.
 * **Enlace**: [Ver la lección](https://youtu.be/jMyQpRCLA-A)
