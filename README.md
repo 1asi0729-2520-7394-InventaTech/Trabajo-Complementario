@@ -106,7 +106,7 @@ Solo abre tu navegador y empieza a explorar el mundo de la programación sin des
 
 ## Recursos adicionales 
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/1asi0729-2520-7394-InventaTech/Trabajo-Complementario)
-- - **Todas las actividades prácticas**: 
+- **Todas las actividades prácticas**: 
 | Número de lección | Actividad | Empezar a programar | 
 |----------|----------|-------------| 
 | 1 | ¿Qué es Java y la Programación? | [OneCompiler](https://onecompiler.com/java) | 
