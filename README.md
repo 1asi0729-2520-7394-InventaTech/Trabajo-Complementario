@@ -49,14 +49,14 @@ Solo abre tu navegador y empieza a explorar el mundo de la programación sin des
 - **Descripción**: En esta lección aprenderás las estructuras de control en Java que permiten que tus programas tomen decisiones y repitan acciones. Veremos sentencias IF-ELSE para condiciones, bucles FOR para repeticiones específicas, y bucles WHILE para repeticiones condicionales.
 - **Enlace**: [Ver la lección](https://youtu.be/tGuNxF0177g)
 - **Conclusiones clave**: Las estructuras de control permiten que los programas tomen decisiones y repitan acciones. IF-ELSE evalúa condiciones (verdadero/falso) para ejecutar diferentes bloques de código. Los operadores && (AND) y || (OR) permiten combinar múltiples condiciones. El bucle FOR se usa cuando conocemos el número exacto de repeticiones. El bucle WHILE repite código mientras una condición sea verdadera. BREAK permite salir de un bucle antes de que termine naturalmente.
-- **Práctica**: [Clic para programar](https://onlinegdb.com/y8y3zwFsVP)
+- **Práctica**: [https://onlinegdb.com/y8y3zwFsVP](https://onlinegdb.com/y8y3zwFsVP)
 
 ### Lección 5: Métodos y parámetros (19 minutos)
 
 - **Descripción**: Aprende a crear y usar métodos en Java para escribir código organizado, reutilizable y profesional. Los métodos son bloques de código con nombre que puedes llamar las veces que necesites. En esta lección cubrimos desde métodos simples hasta métodos con parámetros y valores de retorno.
 - **Enlace**: [Ver la lección](https://youtu.be/aqEZTF0YNzg)
 - **Conclusiones clave**: Los métodos son bloques de código reutilizables que organizan el programa en partes más pequeñas y manejables. Un método sin parámetros (void) solo ejecuta acciones. Los parámetros permiten que los métodos trabajen con diferentes datos cada vez que se llaman. Los métodos con return devuelven un valor que podemos usar posteriormente. La estructura es: public static [tipo] nombreMetodo(parámetros) { código }. Los métodos mejoran la organización, reutilización y mantenibilidad del código.
-- **Práctica**: [Clic para programar](https://onlinegdb.com/zxF8ny3wd)
+- **Práctica**: [https://onlinegdb.com/zxF8ny3wd](https://onlinegdb.com/zxF8ny3wd)
 
 ### Lección 6: ¡Haciendo Programas Interactivos con Scanner! (10 minutos)
 
@@ -100,9 +100,29 @@ Solo abre tu navegador y empieza a explorar el mundo de la programación sin des
 - **Descripción**: ¡Felicitaciones por llegar al final! En esta última lección, revisaremos los errores más comunes que cometen los principiantes para que puedas evitarlos. [cite_start]También hablaremos de las mejores prácticas y te daremos una hoja de ruta sobre qué aprender ahora para convertirte en un experto en Java[cite: 124].
 - **Enlace**: [Ver la lección](https://youtu.be/2JHdokkHTT4)
 - **Conclusiones clave**: Depurar es normal; la práctica constante es clave. El siguiente gran paso en Java es la Programación Orientada a Objetos (POO). [cite_start]Aprende a usar la documentación oficial.
-- **Práctica**: [Revisa este código con errores comunes y trata de corregirlos](https://onlinegdb.com/oCZN1eMdJ)
+- **Práctica**: [Revisa este código con errores comunes y trata de corregirlos](https://www.onlinegdb.com/oCZN1eMdJ)
 - **Material utilizado en el video**: [https://gamma.app/docs/Leccion-6-Tu-Aventura-en-Java-Continua-rlqdlwz71d2xr6s]
 - **Compartir tu trabajo**: [¡Muéstranos lo que aprendiste!](https://docs.google.com/forms/d/e/1FAIpQLScCThxIJPY_7Jh7J9gvOqYtwl6HSqOGc9bLEJDergFuG4Egaw/viewform?usp=header)
+
+## Recursos adicionales 
+- **Código fuente completo**: [Repositorio de GitHub](https://github.com/1asi0729-2520-7394-InventaTech/Trabajo-Complementario)
+- - **Todas las actividades prácticas**: 
+| Número de lección | Actividad | Empezar a programar | 
+|----------|----------|-------------| 
+| 1 | ¿Qué es Java y la Programación? | [OneCompiler](https://onecompiler.com/java) | 
+| 2 | Variables y tipos de datos | [OneCompiler](https://onecompiler.com/java/443vfrhbg) | 
+| 3 | Operadores y expresiones Parte 1| [OneCompiler](https://onecompiler.com/java/443vf4hxk) |
+| 3 | Operadores y expresiones Parte 2| [OneCompiler](https://onecompiler.com/java/443vfpyrq) | 
+| 4 | Estructuras de control | [OnlineGDB](https://www.onlinegdb.com/y8y3zwFsVP) |
+| 5 | Métodos y parámetros | [OnlineGDB](https://www.onlinegdb.com/zxF8ny3wd) |
+| 6 | ¡Haciendo Programas Interactivos con Scanner! | [OnlineGDB](https://onlinegdb.com/Ni7kLzlkg) |
+| 7 | Introducción a la Programación Orientada a Objetos | [OnlineGDB](https://www.onlinegdb.com/imOySccUVa) |
+| 8 | Principios Básicos de POO | [OnlineGDB](https://www.onlinegdb.com/GtNHqfP47) |
+| 9 | structuras de Datos Simples en Java | [OnlineGDB](https://onlinegdb.com/6XdaTEOVs) |
+| 10 | onstruyendo una Aplicación en Java con POO | [OnlineGDB](https://onlinegdb.com/tiANM4GApz) |
+| 11 | Errores Comunes y Próximos Pasos | [OnlineGDB](https://www.onlinegdb.com/oCZN1eMdJ) |
+- Compartir: #JavaBeginners
+  
 **¡Gracias por completar el curso!**
 
 ---
